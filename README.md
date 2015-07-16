@@ -1,2 +1,2 @@
 # MoRepo
-test committ
+test commit
